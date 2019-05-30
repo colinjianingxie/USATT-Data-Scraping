@@ -1,9 +1,0 @@
-In order to run the scraper, I am assuming you have python installed:
-1. Install Scrapy by going to this link
-2. Inside terminal, type: scrapy startproject usatt 
-3. Navigate to the: usatt/usatt/spiders folder
-4. Download the Spider that I have written by clicking here.
-5. Replace the "spider.py" file with the newly downloaded file
-6. To run the program, in terminal: scrapy crawl profiles
-7. To download the output, click here for the csv file.
-8. If there are any issues with running the program, please contact me.
